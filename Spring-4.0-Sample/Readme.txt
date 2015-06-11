@@ -6,6 +6,7 @@ use Maven 3.0 to build and run
 
 Run this project as a web application:
 	mvn spring-boot:run
+address: http://localhost:8080
 
 Build it as an eclipse project:
 	mvn eclipse:eclipse
